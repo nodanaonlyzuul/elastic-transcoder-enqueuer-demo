@@ -21,7 +21,7 @@ For every complete upload.
 Using the aws-sdk gem, this proccess will:
 
 * pull messages from SQS.
-* create Elastic Transcoder jobs for dropped files.
+* create Elastic Transcoder jobs for uploaded files.
 * Acknowledge/Delete message from the queue.
 
   $ ruby ruby poll_for_uploaded_video.rb
