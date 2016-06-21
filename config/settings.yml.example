@@ -1,0 +1,7 @@
+aws:
+  key:  BEEEEPTHEKEYTOMYHEART
+  secret: KEEPITLIKEASECRET
+  region: us-west-1
+  sqs_queue_url: "https://sqs.us-west-1.amazonaws.com/some-number/your-queue-name"
+  pipeline_id: 146xxxx79-u9k8zk
+  preset_id:   135xxxx01-100070
